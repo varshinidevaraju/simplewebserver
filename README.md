@@ -63,7 +63,6 @@ Testing the webserver.
 ```
 ## OUTPUT:
 ![Request image](request_ss.png)
-![Output](comapnies_ss.png)
-
+![Output](companies_ss.png)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.

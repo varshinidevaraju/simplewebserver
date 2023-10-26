@@ -62,6 +62,7 @@ Testing the webserver.
 </html>
 ```
 ## OUTPUT:
+![Request image](request_ss.png)
 ![Output](comapnies_ss.png)
 
 ## RESULT:
